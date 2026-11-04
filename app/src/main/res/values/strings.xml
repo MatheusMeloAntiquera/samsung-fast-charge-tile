@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carregamento rápido</string>
+    <string name="tile_label">Carga rápida</string>
+    <string name="state_on">Ligado</string>
+    <string name="state_off">Desligado</string>
+    <string name="state_no_permission">Sem permissão</string>
+    <string name="current_state">Estado atual: %1$s</string>
+    <string name="toggle">Alternar</string>
+    <string name="toggle_failed">Não foi possível alterar o carregamento rápido</string>
+    <string name="permission_granted">✅ Permissão concedida</string>
+    <string name="permission_missing">⚠️ Permissão ausente. Conecte o celular ao PC e rode uma vez:</string>
+    <string name="tile_hint">Para usar o botão: abra o painel rápido, toque em ⋮ → Editar botões e arraste “Carga rápida” para o painel. Em alguns aparelhos a mudança só vale na próxima vez que o carregador é conectado.</string>
+</resources>
