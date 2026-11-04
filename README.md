@@ -24,6 +24,7 @@ adb shell pm grant com.matheus.fastcharge android.permission.WRITE_SECURE_SETTIN
 ## Usar
 Painel rápido → ⋮ → Editar botões → arraste **Carga rápida** para o painel.
 Sem a permissão, o botão aparece indisponível e um toque abre a tela com o comando acima.
+Toque longo no botão: abre as configurações de bateria.
 
 Conferir o valor: `adb shell settings get system adaptive_fast_charging` (1 = ligado, 0 = desligado).
 Em alguns aparelhos a mudança só vale na próxima vez que o carregador é conectado.
